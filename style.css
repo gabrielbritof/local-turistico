@@ -25,7 +25,17 @@ h1 {
     margin-bottom: 40px;
 }
 
-img {
+p {
+    margin-bottom: 24px;
+}
+
+ul {
+    margin-bottom: 48px;
+    padding-left: 24px;
+    font-weight: bold;
+}
+
+section img {
    border-radius: 28px;
    margin-bottom: 24px;
 }
@@ -40,4 +50,14 @@ img {
     height: 1px;
     margin: 64px 0;
     background-color: #D9D9D9;
+}
+
+footer {
+    margin-bottom: 48px;
+    text-align: center;
+}
+
+footer img {
+    margin: 0;
+    vertical-align: middle;
 }
